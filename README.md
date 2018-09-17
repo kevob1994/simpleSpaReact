@@ -1,6 +1,6 @@
 ## Bienvenidos a mi proyecto simpleSpaReact
 
-Es un SPA que me permite reforzar conocimientos de react y conocer mejor el funcionamiento de next.js y materialize.
+Es un SPA simple que me permite reforzar conocimientos de react y conocer mejor el funcionamiento de next.js y materialize.
 
  ## Tecnologías usadas:
   - React.js
