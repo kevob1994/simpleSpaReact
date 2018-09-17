@@ -11,6 +11,7 @@ Es un SPA que me permite reforzar conocimientos de react y conocer mejor el func
   - Materialize
 
 Para el inicio de este proyecto es necesario ejecutar los comandos
-
+```
   1. npm install
   2. npm run dev
+```
